@@ -1,0 +1,51 @@
+# Composer
+/vendor/
+/composer.lock
+
+# PHPStorm
+/.idea/
+
+# Node
+/node_modules/
+
+# Log files
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Local Environment
+.env
+
+# PHPStorm Project Files
+/.idea
+*.iml
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Vagrant
+.vagrant/
+
+# Laravel specific
+/public/storage
+/public/hot
+/storage/*.key
+Homestead.json
+Homestead.yaml
+.env
+.env.backup
+.env.local
+.env.development
+.env.testing
+.env.production
+.env.*.local
+.envrc
+
+# End of https://www.toptal.com/developers/gitignore/api/php,laravel
